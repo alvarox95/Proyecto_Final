@@ -5,6 +5,7 @@ from .views import register, user_login, update_profile, delete_avatar, my_profi
 from django.contrib.auth.views import LogoutView, PasswordChangeView, PasswordChangeDoneView
 from django.contrib.auth.decorators import login_required
 
+
 urlpatterns = [
     
     path('accounts/register', register, name='register'),

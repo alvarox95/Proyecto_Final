@@ -5,8 +5,8 @@
 En primer lugar, será necesario clonar el repositorio:
 
 ```sh
-$ git clone https://github.com/alvarox95/Entrega-Final-Phyton.git
-$ cd Entrega-Final
+$ git clone https://github.com/alvarox95/Proyecto_Final.git
+$ cd Proyecto_Final
 
 ```
 

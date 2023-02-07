@@ -13,6 +13,7 @@ from .models import UserProfile
 from blogs.models import Blog
 
 
+
 # Create your views here.
 
 
