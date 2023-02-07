@@ -4,6 +4,7 @@ from django.urls import path
 from django.contrib.auth.decorators import login_required
 from .views import delete_comment, new_post, detail_post, edit_post, delete_post, post_search, PostSectionView, PostListView, my_post_list, delete_comment
 
+
 urlpatterns = [
     #Seeción principal de posts
     path('post-section/', login_required(PostSectionView.as_view()), name='post_section'),

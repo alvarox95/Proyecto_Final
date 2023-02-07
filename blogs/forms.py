@@ -6,6 +6,7 @@ from ckeditor.fields import RichTextFormField
 
 
 
+
 class CrearPost(forms.ModelForm):
     
     body = RichTextFormField(required=True)
