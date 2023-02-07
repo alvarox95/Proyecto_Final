@@ -2,14 +2,6 @@
 
 ## Configuración
 
-En primer lugar, será necesario clonar el repositorio:
-
-```sh
-$ git clone https://github.com/alvarox95/Proyecto_Final.git
-$ cd Proyecto_Final
-
-```
-
 Crear y activar un ambiente virtual en el cual instalaremos los paquetes necesarios para el proyecto:
 
 ```sh
